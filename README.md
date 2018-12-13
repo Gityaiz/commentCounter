@@ -27,10 +27,10 @@ $python main.py
 
 ### インストール
 下記ライブラリに依存しています。各自pipによりインストールしてください。
-re
-unicodedata
-glob
-os
-tkinter
+* re
+* unicodedata
+* glob
+* os
+* tkinter
 
 
